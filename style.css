@@ -1,0 +1,51 @@
+.img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.quotes {
+    width: auto;
+    background-color: royalblue;
+    margin-top: 20px;
+    border-radius: 5px;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    color: yellow;
+}
+
+.body {
+    background-color: orchid;
+}
+
+.container-fluid {
+    margin: 0 auto;
+    max-width: 800px;
+    color: bisque;
+    font-family: "Times New Roman";
+    color: chartreuse;
+}
+
+.quotes {
+    font-size: 30px;
+}
+
+.author {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.btn {
+    color: royalblue;
+}
+
+.project {
+    font-weight: 500;
+    color: royalblue;
+}
+
+p {
+    font-size: 20px;
+}
